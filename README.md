@@ -1,3 +1,8 @@
+install base files
+```
+npm i
+```
+
 to run project run
 ```
 npm run dev
